@@ -7,9 +7,5 @@
     "dist",
     "build",
     "../node_modules"
-  ],
-  "compilerOptions": {
-    "module": "NodeNext",
-    "moduleResolution": "NodeNext"
-  }
+  ]
 }
